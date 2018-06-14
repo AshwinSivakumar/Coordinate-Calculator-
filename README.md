@@ -1,5 +1,5 @@
 # Coordinate-Calculator-
-This Project is to make a command line application which can determines the following: <br />
+This Project is to make a CUI application which can determines the following: <br />
 1. 2 dimensional Calculations <br />
   a.To determine the quadrants of the coordinate <br />
   b.To find the distance between 2 coordinates <br />
